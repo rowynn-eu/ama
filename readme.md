@@ -1,16 +1,16 @@
-# Ask me anything!
-Saluton! Anything means *anything*. If you have a question you'd like to ask me but would rather not send an email, shoot one here!
+# Ask me anything! 💭
+## [Ask a question](../../discussions/new?category=ama) &nbsp;&nbsp;&nbsp; [Read questions](../../discussions?discussions_q=is%3Aanswered)
+Saluton! Anything means *anything*. If you have a question you'd like to ask me that isn't a personal question, they should go here rather than my inbox!
 
 I'll try to respond in either English, of Nederlands aŭ Esperanto.
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
 ### Guidelines
-
+⛔ **TL;DR**: Just don't be an asshole, really.
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked elsewhere or by tagging me in the relevant repo.
+- Support questions are better asked on Stack Overflow.
 - Be civil and polite.
 
 ### Links
